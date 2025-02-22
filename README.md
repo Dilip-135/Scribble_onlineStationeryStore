@@ -29,4 +29,4 @@ Welcome to **Scribble**, your one-stop shop for premium stationery that fuels cr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Dilip-135/scribble.git
+   [git clone https://github.com/Dilip-135/scribble.git](https://github.com/Dilip-135/Scribble_onlineStationeryStore.git)
